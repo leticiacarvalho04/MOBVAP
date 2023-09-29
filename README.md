@@ -4,9 +4,9 @@ Imagem da pagina home do site MOBVAP (Mostra de barcos a vapor)🛥️
 
 ## Indice
 - [Descrição](#Descrição)
-- <a href='#rodar'>Como rodar a aplicação</a>
-- <a href='#tecnologias'>Tecnologias Usadas</a>
-- <a href='#criadores'>Autores</a>
+- [Como rodar a aplicação](#Como rodar a aplicação)
+- [Tecnologias Usadas](#Tecnologias Usadas)
+- [Autores](#Autores)
 
 ## Descrição
 O objetivo principal da MOBVAP 2023 é promover a educação STEAM (Ciência, Tecnologia, Engenharia, Artes/Design e Matemática) entre os estudantes, despertando a curiosidade, a criatividade e o espírito empreendedor. A mostra visa inspirar jovens a explorar o conhecimento científico e tecnológico de maneira prática e envolvente, aplicando esses princípios na construção de barcos à vapor.
