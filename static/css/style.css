@@ -14,7 +14,7 @@ body{
 }
 
 header{
-    background-color: #11B1EF;
+    background-color: #15A2C1;
     height: 150px;
 }
 
@@ -27,8 +27,6 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #11B1EF;
-    margin-left: 0 auto;
     margin-top: 1%;
 }
 
@@ -46,7 +44,6 @@ nav .logo{
 
 .nav-list li{
     letter-spacing: 3px;
-    margin-left: 10px;
     margin-top: 8%;
 }
 
@@ -69,44 +66,10 @@ nav .logo{
     width: 100%;
   }
 
-h1{
-    color:#11B1EF;
-    text-align: center;
-    margin-top: 2%;
-    margin-bottom: 2%;
-}
-
-.sobre {
-    padding: 0 40px; 
-    margin: 0 3%; 
-}
-
-.sobre p{
-    margin-bottom: 2%;
-}
-
-.programacao{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-}
-
-table {
-    border-collapse: collapse;
-    width: 85%; 
-}
-
-th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-}
-
 .organizadores{
     width: 95vw;
     margin: 0 auto;
+    flex: 4;
 }
 
 h2,h4{
@@ -114,14 +77,78 @@ h2,h4{
 }
 
 .footer{
-    background-color: #11B1EF;
+    display: flex;
+    flex-direction: row;
+    background-color: #15A2C1;
 }
 
-.footer img{
+.footer img {
+    align-items: center;
     width: auto;
     height: 60px;
 }
 
+
+.realizacao {
+    display: flex;
+    width: 90vh;
+    height: auto !important;
+    flex-direction: column;
+    align-items: center;
+}
+
+.apoio {
+    display: flex;
+    width: 90vh;
+    flex-direction: column;
+    align-items: center;
+}
+
+.apoio p, .realizacao p{
+    font-size: 20px;
+}
+
+.imgs1 {
+    display: flex;
+    flex: wrap;
+
+}
+
+.imgs1 img {
+    margin: 10px; /* Espaçamento entre as imagens de realização */
+}
+
+.imgs2 {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+
+.imgs2 img {
+    margin: 10px; 
+    width: auto;
+    height: 60px;
+}
+.imgs1 img.unip {
+    width: 100px; 
+    height: auto; 
+}
+
+footer{
+    background-color: #15A2C1;
+    width: 100%;
+    
+}
+
+.organizadores {
+    margin: 2%;
+    width: 80vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .escolas img{
     height: 240px;
 }
