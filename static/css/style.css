@@ -89,7 +89,6 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
     padding: 0;
 }
@@ -112,4 +111,17 @@ th, td {
 
 h2,h4{
     padding: 0 40px;
+}
+
+.footer{
+    background-color: #11B1EF;
+}
+
+.footer img{
+    width: auto;
+    height: 60px;
+}
+
+.escolas img{
+    height: 240px;
 }
