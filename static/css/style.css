@@ -5,6 +5,10 @@
     font-family: Helvetica;
 }
 
+.logo{
+    width: 10px;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -27,14 +31,12 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-top: 1%;
 }
 
 nav .logo{
     display: flex;
     align-items: left;
     margin-left: 0 auto;
-    margin-top: 1%;
 }
 
 .nav-list{
@@ -44,7 +46,7 @@ nav .logo{
 
 .nav-list li{
     letter-spacing: 3px;
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 .nav-list li {
