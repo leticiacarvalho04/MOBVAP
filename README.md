@@ -4,8 +4,8 @@ Imagem da pagina home do site MOBVAP (Mostra de barcos a vapor)🛥️
 
 ## Indice
 - [Descrição](#Descrição)
-- [Como rodar a aplicação](#Como rodar a aplicação)
-- [Tecnologias Usadas](#Tecnologias Usadas)
+- [Como rodar a aplicação](#Comorodaraaplicação)
+- [Tecnologias Usadas](#TecnologiasUsadas)
 - [Autores](#Autores)
 
 ## Descrição
