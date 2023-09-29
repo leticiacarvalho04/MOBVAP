@@ -1,0 +1,19 @@
+.escolas > div {
+    text-align: center;
+  }
+  
+  .escolas {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .escolas img {
+    width: auto;
+    height: 360px;
+  }
+
+h3{
+    color: #11B1EF;
+    font-size: 2rem;
+    margin-top: 7%;
+}
